@@ -1,0 +1,517 @@
+#section-3{
+    background: rgba(249, 249, 249, 1);
+}
+#heading{
+    font-size: 64px;
+}
+#paragraph{
+    font-size: 18px;
+}
+#section-1{
+    height: 500px;
+}
+#photo{
+    margin-top: -100px;
+}
+.height{
+    height: 100%;
+}
+
+@media screen and (min-width: 1300px){
+    #section-2 span{
+        font-size: 32px;
+    }
+    #section-2 p{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 1200px){
+    #heading{
+        font-size: 64px;
+    }
+    #paragraph{
+        font-size: 18px;
+    }
+    #section-2 span{
+        font-size: 32px;
+    }
+    #section-2 p{
+        font-size: 18px;
+    }
+    #section-3 h6{
+        font-size: 18px;
+    }
+    #section-3 h1{
+        font-size: 32px;
+    }
+    #section-3 h4{
+        font-size: 24px;
+    }
+    #section-3 p{
+        font-size: 18px;
+    }
+    #section-4 h6{
+        font-size: 18px;
+    }
+    #section-4 h1{
+        font-size: 36px;
+    }
+    #hospital{
+        width: 360px;
+    }
+    #hospital img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #hospital h4{
+        font-size: 24px;
+    }
+    #hospital p{
+        font-size: 18px;
+    }
+    #food-bavreage{
+        width: 360px;
+    }
+    #food-bavreage img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #food-bavreage h4{
+        font-size: 24px;
+    }
+    #food-bavreage p{
+        font-size: 18px;
+    }
+    #Supermarket-apps{
+        width: 360px;
+    }
+    #Supermarket-apps img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #Supermarket-apps h4{
+        font-size: 24px;
+    }
+    #Supermarket-apps p{
+        font-size: 18px;
+    }
+    #my-hospital h5{
+        font-size: 24px;
+    }
+    #my-hospital p{
+        font-size: 18px;
+    }
+    #my-hospital img{
+        object-fit: contain;
+    }
+    #my-hospital h6{
+        font-size: 18px;
+    }
+    #logo-crop h5{
+        font-size: 24px;
+    }
+    #logo-crop p{
+        font-size: 18px;
+    }
+    #logo-cro img{
+        object-fit: contain;
+    }
+    #logo-crop h6{
+        font-size: 18px;
+    }
+    #last-card h5{
+        font-size: 22px;
+    }
+    #last-card p{
+        font-size: 18px;
+    }
+    #last-card img{
+        object-fit: contain;
+    }
+    #last-card h6{
+        font-size: 18px;
+    }
+
+}
+@media screen and (max-width: 991px){
+    #photo{
+        margin-top: -160px;
+    }
+    #heading{
+        font-size: 32px;
+    }
+    #paragraph{
+        font-size: 18px;
+    }
+    #section-2 span{
+        font-size: 26px;
+    }
+    #section-2 p{
+        font-size: 18px;
+    }
+    
+    #section-3 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-3 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-3 h4{
+        font-size: 22px;
+    }
+    #section-3 p{
+        font-size: 16px;
+    }
+    #section-4 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-4 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-5 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-5 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-6 h1{
+        font-size: 28px;
+    }
+    #section-6 p{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 768px){
+    #photo{
+        margin-top: -200px;
+    }
+    #heading{
+        font-size: 28px;
+    }
+    #paragraph{
+        font-size: 14px;
+    }
+    #section-2 span{
+        font-size: 22px;
+    }
+    #section-2 p{
+        font-size: 16px;
+    }
+
+    #section-3 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-3 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-3 h4{
+        font-size: 22px;
+    }
+    #section-3 p{
+        font-size: 16px;
+    }
+    #section-4 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-4 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-5 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-5 h1{
+        font-size: 26px;
+        text-align: center;
+    }
+    #section-6 p{
+        font-size: 16px;
+    }
+    #hospital{
+        width: 320px;
+    }
+    #hospital img{
+        width: 100%;
+    }
+
+    #food-bavreage{
+        width: 320px;
+    }
+    #food-bavreage img{
+        width: 100%;
+    }
+    #Supermarket-apps{
+        width: 320px;
+    }
+    #Supermarket-apps img{
+        width: 100%;
+    }
+    #section-6 h1{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 576px){
+    #photo{
+        margin-top: -230px;
+    }
+    #heading{
+        font-size: 26px;
+    }
+    #paragraph{
+        font-size: 14px;
+    }
+    #section-2 span{
+        font-size: 20px;
+    }
+    #section-2 p{
+        font-size: 16px;
+    }
+    /* #gutter-none{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    /* #gutter-none-2{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    /* #gutter-none-3{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    /* #gutter-none-4{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    #section-3 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-3 h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    #section-3 h4{
+        font-size: 20px;
+    }
+    #section-3 p{
+        font-size: 16px;
+    }
+    #section-4 h6{
+        font-size: 16px;
+        text-align: center;
+    }
+    #section-4 h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    #section-5 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-5 h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    #hospital img{
+        align-self: center;
+    }
+    #hospital h4{
+        align-self: center;
+    }
+    #hospital p{
+        align-self: center;
+        text-align: center;
+    }
+    #food-bavreage img{
+        align-self: center;
+    }
+    #food-bavreage h4{
+        align-self: center;
+    }
+    #food-bavreage p{
+        align-self: center;
+        text-align: center;
+    }
+    #Supermarket-apps img{
+        align-self: center;
+    }
+    #Supermarket-apps h4{
+        align-self: center;
+    }
+    #Supermarket-apps p{
+        align-self: center;
+        text-align: center;
+    }
+    #section-6 h1{
+        font-size: 24px;
+    }
+    #section-6 p{
+        font-size: 16px;
+    }
+    #icons{
+        margin-bottom: 40px;
+        align-self: center;
+    }
+    #logo{
+        justify-content: center;
+    }
+    #footer p{
+        font-size: 18px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 320px){
+    #photo{
+        margin-top: -100px;
+    }
+    #heading{
+        font-size: 24px;
+    }
+    #paragraph{
+        font-size: 14px;
+    }
+    #section-2 span{
+        font-size: 16px;
+    }
+    #section-2 p{
+        font-size: 12px;
+    }
+    /* #gutter-none{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    /* #gutter-none-2{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+    } */
+    /* #gutter-none-3{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        --bs-gutter-x: 0;
+        gap: 10px;
+        width: 100%;
+    } */
+    
+    #section-3 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-3 h1{
+        font-size: 22px;
+        text-align: center;
+    }
+    #section-3 h4{
+        font-size: 18px;
+    }
+    #section-3 p{
+        font-size: 14px;
+    }
+    #section-4 h6{
+        font-size: 16px;
+        text-align: center;
+    }
+    #section-4 h1{
+        font-size: 22px;
+        text-align: center;
+    }
+    #section-5 h6{
+        font-size: 18px;
+        text-align: center;
+    }
+    #section-5 h1{
+        font-size: 22px;
+        text-align: center;
+    }
+    #hospital{
+        width: 290px;
+    }
+    #hospital img{
+        align-self: center;
+        width: 100%;
+    }
+    #hospital h4{
+        align-self: center;
+    }
+    #hospital p{
+        align-self: center;
+        text-align: center;
+    }
+    #food-bavreage{
+        width: 290px;
+    }
+    #food-bavreage img{
+        align-self: center;
+        width: 100%;
+    }
+    #food-bavreage h4{
+        align-self: center;
+        text-align: center;
+    }
+    #food-bavreage p{
+        align-self: center;
+        text-align: center;
+    }
+    #Supermarket-apps{
+        width: 290px;
+    }
+    #Supermarket-apps img{
+        align-self: center;
+        width: 100%;
+    }
+    #Supermarket-apps h4{
+        align-self: center;
+    }
+    #Supermarket-apps p{
+        align-self: center;
+        text-align: center;
+    }
+    #section-6 h1{
+        font-size: 22px;
+    }
+    #section-6 p{
+        font-size: 14px;
+    }
+    #icons{
+        margin-bottom: 40px;
+        align-self: center;
+    }
+    #logo{
+        justify-content: center;
+    }
+    #footer p{
+        font-size: 16px;
+        text-align: center;
+    }
+    #last-section li{
+        font-size: 12px;
+    }
+}
