@@ -276,34 +276,35 @@
     #section-2 p{
         font-size: 16px;
     }
-    /* #gutter-none{
+    #gutter-none{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
-    /* #gutter-none-2{
+    }
+    #gutter-none-2{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
-    /* #gutter-none-3{
+        padding: 0 15px;
+    }
+    #gutter-none-3{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
-    /* #gutter-none-4{
+    }
+    #gutter-none-4{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
+    }
     #section-3 h6{
         font-size: 18px;
         text-align: center;
@@ -322,9 +323,16 @@
         font-size: 16px;
         text-align: center;
     }
+    .cards{
+        justify-content: center;
+    }
     #section-4 h1{
         font-size: 24px;
         text-align: center;
+    }
+    #gutter-none-4{
+        --bs-gutter-x: 0;
+        padding: 0 15px;
     }
     #section-5 h6{
         font-size: 18px;
@@ -398,28 +406,33 @@
     #section-2 p{
         font-size: 12px;
     }
-    /* #gutter-none{
+    #gutter-none{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
-    /* #gutter-none-2{
+    }
+    #gutter-none-2{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
-    } */
-    /* #gutter-none-3{
+        padding: 0 25px;
+    }
+    #gutter-none-3{
         justify-content: center;
         align-items: center;
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
         width: 100%;
-    } */
+    }
+    #gutter-none-4{
+        --bs-gutter-x: 0;
+        padding: 0 15px;
+    }
     
     #section-3 h6{
         font-size: 18px;
@@ -442,6 +455,9 @@
     #section-4 h1{
         font-size: 22px;
         text-align: center;
+    }
+    #section-5{
+        --bs-gutter-x: 0;
     }
     #section-5 h6{
         font-size: 18px;
