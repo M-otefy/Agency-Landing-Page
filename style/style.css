@@ -16,6 +16,9 @@
 .height{
     height: 100%;
 }
+.cards{
+    justify-content: center;
+}
 
 @media screen and (min-width: 1300px){
     #section-2 span{
@@ -238,6 +241,9 @@
         font-size: 16px;
     }
     #hospital{
+        justify-content: center;
+    }
+    #hospital{
         width: 320px;
     }
     #hospital img{
@@ -259,10 +265,11 @@
     #section-6 h1{
         font-size: 26px;
     }
+    
 }
 @media screen and (max-width: 576px){
     #photo{
-        margin-top: -230px;
+        margin-top: -180px;
     }
     #heading{
         font-size: 26px;
@@ -282,6 +289,7 @@
         display: flex;
         --bs-gutter-x: 0;
         gap: 10px;
+        padding: 0 15px;
     }
     #gutter-none-2{
         justify-content: center;
@@ -322,9 +330,6 @@
     #section-4 h6{
         font-size: 16px;
         text-align: center;
-    }
-    .cards{
-        justify-content: center;
     }
     #section-4 h1{
         font-size: 24px;
